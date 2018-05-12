@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9209'
     url: http://www.gutenberg.org/2009/agents/9209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20287#A-Night-in-the-Snowor-A-Struggle-for-Life
 gutenberg_issued: '2007-01-04'
 gutenberg_type: Text
 identifiers:
